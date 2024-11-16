@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrowdFundingApp", "CrowdFundingApp.csproj", "{0309342B-EF94-43C0-A847-E9BAAB8339CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0309342B-EF94-43C0-A847-E9BAAB8339CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0309342B-EF94-43C0-A847-E9BAAB8339CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0309342B-EF94-43C0-A847-E9BAAB8339CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0309342B-EF94-43C0-A847-E9BAAB8339CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C12D23-209D-48E7-B952-132A1DB01F90}
+	EndGlobalSection
+EndGlobal
